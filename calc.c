@@ -24,5 +24,5 @@ void multiply(double num1, double num2){
 	printf("num1: %lf\n", num1);
 	printf("num2: %lf\n", num2);
 	double multiplicationResult = num1 * num2;
-	printf("Substraction result: %lf * %lf = %lf\n", num1, num2, multiplicationResult);
+	printf("Multiplication result: %lf * %lf = %lf\n", num1, num2, multiplicationResult);
 }
